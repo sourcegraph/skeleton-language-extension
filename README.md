@@ -1,5 +1,14 @@
 # Skeleton language extension
 
+## ⚠️ Deprecation notice
+
+**Sourcegraph extensions have been deprecated with the September 2022 Sourcegraph
+release. [Learn more](https://docs.sourcegraph.com/extensions/deprecation).**
+
+The repo and the docs below are kept to support older Sourcegraph versions.
+
+## Description
+
 Minimal example of a language extension.
 
 ![](https://user-images.githubusercontent.com/1387653/50319884-86795600-047e-11e9-8535-aaa8b3bc8e54.png)
